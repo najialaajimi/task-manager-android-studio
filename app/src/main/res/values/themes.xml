@@ -2,14 +2,14 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.MyTask" parent="Theme.Material3.Light.NoActionBar">
         <item name="windowActionBar">true</item>
-        <item name="android:statusBarColor">#fbb630</item>
+        <item name="android:statusBarColor">#7ABBF8</item>
         <!-- Set ActionBar background color -->
-        <item name="colorPrimary">#fbb630</item>
+        <item name="colorPrimary">#7FA0CA</item>
     </style>
 
     <style name="Theme.MyTask" parent="Base.Theme.MyTask">
         <item name="windowActionBar">true</item>
-        <item name="colorPrimary">#fbb630</item>
-        <item name="android:statusBarColor">#fbb630</item>
+        <item name="colorPrimary">#8DC3FB</item>
+        <item name="android:statusBarColor">#799DC5</item>
     </style>
 </resources>
