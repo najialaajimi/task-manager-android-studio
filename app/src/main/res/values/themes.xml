@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyTask" parent="Theme.Material3.Light.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="android:statusBarColor">#fbb630</item>
+        <!-- Set ActionBar background color -->
+        <item name="colorPrimary">#fbb630</item>
+    </style>
+
+    <style name="Theme.MyTask" parent="Base.Theme.MyTask">
+        <item name="windowActionBar">true</item>
+        <item name="colorPrimary">#fbb630</item>
+        <item name="android:statusBarColor">#fbb630</item>
+    </style>
+</resources>
